@@ -3,12 +3,12 @@ Author URI: https://www.realestateconnected.com.au/
 Plugin URI: https://wordpress.org/plugins/easy-property-listings-xml-csv-import/
 Contributors: mervb1
 Donate link: https://easypropertylistings.com.au/support-the-site/
-Tags: real estate, easy property listings, wp all import, csv, xml, xls, import, reaxml, jupix, BLM, MLS
+Tags: real estate, xml, import, csv, reaxml
 Requires PHP: 7.1
 Requires at least: 3.9
-Tested up to: 6.7.1
+Tested up to: 6.8.1
 Stable Tag: 2.2.1
-License: GNU Version 2 or Any Later Version
+License: GPLv2 or later
 
 Import listings into Easy Property Listings with this WP All Import add-on for WordPress. Created for maximum performance.
 
@@ -44,6 +44,10 @@ Supported formats are CSV, XML and XLS files with full support for the Australia
 6. Recommend Import settings
 
 == Change log ==
+
+= 2.2.1 June 11, 2025 =
+
+* Fix: Fatal error issue fixed when expecting array.
 
 = 2.2 June 24, 2024 =
 
